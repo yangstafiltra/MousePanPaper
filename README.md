@@ -24,7 +24,8 @@ MousePanPaper listens to mouse position and adjusts mpvpaper's `video-pan-x/y` i
 ## 安装 / Installation
 
 ```bash
-# 克隆或复制脚本到本地 / Clone or copy the script locally
+# 克隆并复制脚本到本地 / Clone and copy the script locally
+git clone https://github.com/yangstafiltra/MousePanPaper.git
 cp MousePanPaper.py ~/.config/hypr/scripts/
 ```
 
